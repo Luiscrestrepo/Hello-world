@@ -1,3 +1,2 @@
 # Hello-world
-want a new career in coding.
-I am 35 year old, and still work for tips. I need a real job. 
+want to create a website like chatroulette, Can anyone help? but I want people to be able to choose location Contries, states, cities, 
